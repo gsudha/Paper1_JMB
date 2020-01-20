@@ -1,0 +1,84 @@
+
+
+Dear sir/madame
+
+  Please find attached a paper entitled "Identification of The Three
+  Distinct Fold Types of the CPA/AT Superfamily." by Govindarajan et
+  al.  We do believe this paper to be suitable to be published in JMB
+  as it provides insights into how all families in the CPA/AT
+  superfamily are related. The CPA/AT superfamily is one of the most
+  important and wide-spread transporters and transports a variety of
+  compounds in both prokaryotes and eukaryotes. 
+
+ In particular we do highlight that families in CPA/AT transporter
+ superfamily consists of inverted repeat structures but that these can
+ be divided into "broken" and "reentrant" types. Using an integrated
+ topology annotation we classify the topology of the members of the
+ CPA/AT superfamily.  We identify three fold types: 5-helical-broken,
+ 6-helical-reentrant, and 7-helical-broken.  This leads us to
+ propose a novel structural hierarchy (1)Superfamily (2)Fold-type (3)
+ Family (4) Subfamily, where all members of each subfamily (but not
+ necessarily family) have a unique topology. Using evolutionary
+ analysis we show that the 6-helical-reentrant and 7-helical-broken
+ fold types are more closely related and that the 5-helical-broken is
+ the outlier. Further, we identify three evolutionary distinct
+ fold-types identified based on repeat units: gain/loss of helices,
+ change in orientation, and the broken-reentrant switch. These occurs
+ at different levels in the hierarchical classification.
+
+
+
+
+  Here follows the abstract of the paper (a pdf is attached):
+
+ The CPA/AT transporter superfamily transports a variety of compounds,
+ including ions, amino acids, bile acid and auxin. All known families
+ in this superfamily consists of an inverted repeat structure, in most
+ cases the N and C-terminal subdomains have identical (but inverted)
+ topologies, but in some cases there exist one or more additional
+ helices in one of the subdomains. Here, we show that the
+ evolutionary related proteins in this superfamily contain
+ unprecedented changes in their topology. This identifies the
+ existence of several novel families with either broken and reentrant
+ helical transporters using an integrated topology annotation
+ method. Using these annotations, we define a hierarchy of topology
+ and evolutionary relatedness; (i) the CPA/AT Superfamily, (ii)
+ Fold-type, (iii) Family and (iv) Subfamily. We identified three
+ evolutionary distinct fold-types based on the repeat units; the 5
+ helical broken fold-type, the 6 helical reentrant fold-type and the 7
+ helical broken fold-type. Each fold type can be made up of families
+ of same/different topologies. Few families can be further made up of
+ subfamilies with different topologies (Pfam families Na_H_Exchanger,
+ SBF and Cons_hypoth698). Topology variations are due to the
+ addition/deletion of helices in the scaffold subdomain. We also
+ identified subfamilies (cons_hypoth698_1 and cons_hypoth698_2) that
+ have a truncated C terminal core subdomain.  Families with a complete
+ change in orientation were also observed both among the broken and
+ reentrant types. Finally, we show that the transition between the
+ broken and reentrant types is accompanied by the gain/loss of helices
+ in the scaffold subdomain.
+
+
+  
+  Supplementary data, including alignments and homo logy models, is
+  freely available from:
+
+
+  We do recommend the following reviewers as they are experts in this area:
+
+  Jim Bowie <bowie@mbi.ucla.edu>
+  Nir Ben-Tal <bental@tauex.tau.ac.il>
+  Milton H. Saier Jr. <msaier@ucsd.edu>
+  Helgi Schiöth <Helgi.Schioth@neuro.uu.se>
+  Dirk Slotbloom <d.j.slotboom@rug.nl>
+  Andrei Lupas <andrei.lupas@tuebingen.mpg.de>
+  Charlotte Deane <deane@stats.ox.ac.uk>
+
+  We do believe that Sheena E. Radford or Rita Casadio would be a
+  suitable editor for this paper.
+
+  Yours
+
+  Arne Elofsson - on behalf of all the authors.
+  
+  
