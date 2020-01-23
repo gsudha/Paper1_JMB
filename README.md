@@ -9,3 +9,6 @@
 4. Graphical abstract and Cover illustration: It is provided as .svg file and named GA_CI.svg. The resolution needs to be  corrected according to their guidelines. 
 
 5. Other supplemental data is provided as a Github repository: https://github.com/gsudha/CPA-AT-superfamily
+
+## 1.png
+![My image 1.png](1.png)
